@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name             = "LibName"
-  s.version          = "0.2.0"
+  s.name             = "Trusteer"
+  s.version          = "4.9.0"
   s.summary          = "MySummary"
 
   s.homepage         = "http://myWebpPage.com/"
